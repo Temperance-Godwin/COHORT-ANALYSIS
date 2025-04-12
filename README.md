@@ -8,9 +8,9 @@ This project focuses on performing a cohort analysis of online retail customers,
 
 ## SKILLS/CONCEPTS DEMONSTRATED
 ### Libraries used are:
-Pandas
-Matplotlib
-Seaborn
+1. Pandas
+2. Matplotlib
+3. Seaborn
 
 
 ## DATA SOURCING.
