@@ -6,6 +6,9 @@ In the competitive landscape of online retail, understanding customer behavior i
 
 This project focuses on performing a cohort analysis of online retail customers, grouped by the month of their first transaction. The objective is to evaluate customer retention trends, repeat purchase behavior, and lifetime value over time. By analyzing how different cohorts behave after their initial interaction with the platform, we can uncover insights that inform customer engagement strategies, promotional timing, and product recommendations.
 
+## DATA SOURCE
+UCI Machine Learning Repository. View data [here](https://archive.ics.uci.edu/dataset/352/online+retail)
+
 ## LIBRARY USED
 1. Pandas - Data Wrangling
 2. Matplotlib - Data Visualization
