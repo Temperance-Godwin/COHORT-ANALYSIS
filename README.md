@@ -34,7 +34,7 @@ View my code [here](https://github.com/Temperance-Godwin/COHORT-ANALYSIS/blob/ma
 2. Some Months(e.g December) show better retention, this might potentially be due to as a results of promotion or holiday campaigns.
 3. Over 60% of customers do not return after their initial purchase.
 
-## Recommendations (Actionable – What to Do and How to Do It)
+## RECOMMENDATIONS
 1. **Launch Cohort-Based Retention Campaigns**: Design tailored communication strategies based on a customer’s stage in their lifecycle (e.g., month 1, month 2, month 3).
    
 *How to Do It:*
@@ -43,7 +43,7 @@ View my code [here](https://github.com/Temperance-Godwin/COHORT-ANALYSIS/blob/ma
 - Include dynamic content in emails based on past purchase history or categories browsed.
 
 2. **Introduce a Loyalty Program to Reward Returning Customers**
-3. 
+
 *How to Do It*:
 - Implement a points-based system where customers earn rewards for each purchase.
 - Use custom-built solutions to integrate loyalty tracking.
