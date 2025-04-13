@@ -102,7 +102,7 @@ View my code [here](https://github.com/Temperance-Godwin/COHORT-ANALYSIS/blob/ma
 
 ## LIMITATIONS
 While this analysis provides useful insights, there are several limitations to consider:
-1. **Data is Limited to a Single Geography**: The dataset only includes customers from the United Kingdom. Retention behavior may differ significantly in other markets due to cultural, economic, or seasonal factors.
+1. **Data is Limited to Few Continents**: Retention behavior may differ significantly in other markets due to cultural, economic, or seasonal factors.
 2. **Temporal Range is Not Fully Defined**: The dataset likely covers a single year. A longer time horizon would provide a more complete view of long-term retention and customer lifetime value.
 3. **Lack of Channel Attribution**: The dataset does not include information about how customers were acquired (e.g., paid ads, organic search, referrals). Without this, we cannot determine which marketing channels produce higher-retaining customers.
 4. **Revenue Retention is Not Analyzed**: The focus was on user retention. Revenue retention would provide a more nuanced understanding of customer value and help distinguish between low- and high-spending retained users.
