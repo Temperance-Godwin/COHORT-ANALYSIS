@@ -15,7 +15,7 @@ This project focuses on performing a cohort analysis of online retail customers,
 ## METHODOLOGY
 1. Data Loading & Cleaning
 - Loaded data and removed missing CustomerIDs.
-2. Cohort Mappin
+2. Cohort Mapping
 - Assigned each customer to a CohortMonth.
 - Calculated CohortIndex as the number of months since first purchase.
 3. Retention Matrix
