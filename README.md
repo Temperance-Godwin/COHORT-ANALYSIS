@@ -6,7 +6,7 @@ In the competitive landscape of online retail, understanding customer behavior i
 
 This project focuses on performing a cohort analysis of online retail customers, grouped by the month of their first transaction. The objective is to evaluate customer retention trends, repeat purchase behavior, and lifetime value over time. By analyzing how different cohorts behave after their initial interaction with the platform, we can uncover insights that inform customer engagement strategies, promotional timing, and product recommendations.
 
-## lIBRARY USED
+## LIBRARY USED
 1. Pandas - Data Wrangling
 2. Matplotlib - Data Visualization
 3. Seaborn- Data Visualization
@@ -23,6 +23,7 @@ This project focuses on performing a cohort analysis of online retail customers,
 - Normalized into percentages for clear retention visualization.
 4. Visualization
 - Generated a **heatmap** of monthly retention percentages using 'seaborn'.
+
 View my code [here](https://github.com/Temperance-Godwin/COHORT-ANALYSIS/blob/main/Cohort%20Analysis.ipynb)
 
 ## INSIGHTS
