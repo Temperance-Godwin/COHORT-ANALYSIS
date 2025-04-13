@@ -110,3 +110,8 @@ While this analysis provides useful insights, there are several limitations to c
 5.**No Behavioral or Demographic Segmentation**: All users are treated equally in the analysis. Further segmentation by age, gender, product type, or user behavior could uncover more granular insights.
 6. **Returns and Cancellations Excluded but Not Analyzed**: While returns were excluded for data quality, analyzing their frequency and causes could reveal issues affecting customer satisfaction and long-term retention.
 7. **No Real-Time or Automated Monitoring**: This is a static analysis. For production use, this should be built into a real-time dashboard or periodic reporting system to monitor cohort performance continuously.
+
+![Thank you](https://github.com/Temperance-Godwin/Forbes-world-billionaires-2022/assets/156975460/f6563ba6-1ad6-4d34-a3f3-8e7fbdf654df)
+
+## Thank you for following through.
+
