@@ -13,8 +13,8 @@ This project focuses on performing a cohort analysis of online retail customers,
 3. Seaborn
 
 
-## DATA SOURCING.
-Onyx june challenge, click [here](https://onyxdata.co.uk/dataset_challenge/june-2022/)
+## DOCUMENTATION
+View my code [here](h[ttps://onyxdata.co.uk/dataset_challenge/june-2022/](https://github.com/Temperance-Godwin/COHORT-ANALYSIS/blob/main/Cohort%20Analysis.ipynb))
 
 ## DATA CLEANING.
-The dataset contains 2668 rows and 22 columns
+
