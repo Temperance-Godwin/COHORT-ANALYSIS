@@ -56,7 +56,9 @@ View my code [here](https://github.com/Temperance-Godwin/COHORT-ANALYSIS/blob/ma
 4. **Identify and Prioritize High-Retention Cohorts**: Analyze which customer acquisition periods or segments result in the highest retention and replicate those conditions.
 *How to Do It:*
 -Use the cohort heatmap to find months with above-average second or third-month retention.
+
 -Look into external factors during those periods (promotions, holidays, campaigns).
+
 -Replicate effective tactics from high-performing months (e.g., offer bundles, timing of promotions).
 
 6. Segment Customers by Value for Personalized Treatment
