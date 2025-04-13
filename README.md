@@ -14,7 +14,7 @@ This project focuses on performing a cohort analysis of online retail customers,
 
 
 ## DOCUMENTATION
-View my code [here](h[ttps://onyxdata.co.uk/dataset_challenge/june-2022/](https://github.com/Temperance-Godwin/COHORT-ANALYSIS/blob/main/Cohort%20Analysis.ipynb))
+View my code [here](https://github.com/Temperance-Godwin/COHORT-ANALYSIS/blob/main/Cohort%20Analysis.ipynb)
 
 ## DATA CLEANING.
 
