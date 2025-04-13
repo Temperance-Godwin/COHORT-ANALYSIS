@@ -36,39 +36,42 @@ View my code [here](https://github.com/Temperance-Godwin/COHORT-ANALYSIS/blob/ma
 
 ## Recommendations (Actionable – What to Do and How to Do It)
 1. **Launch Cohort-Based Retention Campaigns**: Design tailored communication strategies based on a customer’s stage in their lifecycle (e.g., month 1, month 2, month 3).
+   
 *How to Do It:*
-- Use marketing automation tools (e.g., Mailchimp, Klaviyo, or HubSpot) to set up lifecycle email sequences.
+- Use marketing automation tools (e.g. HubSpot) to set up lifecycle email sequences.
 - Create triggers such as "7 days after first purchase" or "30 days of inactivity" to send personalized reminders, discounts, or product suggestions.
 - Include dynamic content in emails based on past purchase history or categories browsed.
 
-2. **Introduce a Loyalty Program to Reward Returning Customers**: Incentivize repeat purchases by rewarding customer loyalty.
-
+2. **Introduce a Loyalty Program to Reward Returning Customers**
+3. 
 *How to Do It*:
 - Implement a points-based system where customers earn rewards for each purchase.
-- Use tools like Smile.io, Yotpo, or custom-built solutions to integrate loyalty tracking.
+- Use custom-built solutions to integrate loyalty tracking.
 - Offer milestones such as “Get 10% off your third order” or “Earn a free gift on your fifth purchase.”
 - Track performance by comparing retention rates pre- and post-loyalty program.
 
-3. **Encourage the Second Purchase With First-Time Buyer Offers**: Combat early churn by giving first-time customers a reason to return quickly.
+3. **Encourage the Second Purchase With First-Time Buyer Offers**
 
 *How to Do It:*
 - After the first purchase, trigger a limited-time discount (e.g., 15% off if they return within 10 days).
-- Use retargeting ads via Facebook/Instagram or Google Display Network focused only on first-time buyers.
 - Include an offer inside the package delivery (e.g., a coupon code or QR to redeem bonus on next order).
 
 4. **Identify and Prioritize High-Retention Cohorts**: Analyze which customer acquisition periods or segments result in the highest retention and replicate those conditions.
+   
 *How to Do It:*
 - Use the cohort heatmap to find months with above-average second or third-month retention.
 - Look into external factors during those periods (promotions, holidays, campaigns).
 - Replicate effective tactics from high-performing months (e.g., offer bundles, timing of promotions).
 
 5. **Segment Customers by Value for Personalized Treatment**: Personalize retention strategies for high-value versus low-value customers.
+
 *How to Do It*
 - Use RFM (Recency, Frequency, Monetary) segmentation to classify customers.
 - Send premium offers, early access, or VIP experiences to top-tier users.
 - Send reactivation emails with low-cost offers or surveys to lower-tier or inactive users.
 
 6. **Add Product-Based Retention Analysis**: Understand which products or categories lead to higher customer retention.
+   
 *How to Do It*:
 - Segment your cohort analysis by top-selling product categories.
 - Compare retention heatmaps across these categories to identify retention-driving products.
@@ -85,7 +88,7 @@ View my code [here](https://github.com/Temperance-Godwin/COHORT-ANALYSIS/blob/ma
 - Use tools like Power BI, Tableau, or Python Dash to build real-time retention dashboards.
 - Schedule weekly or monthly data pulls and refreshes.
 - Include visual alerts or trend indicators when certain cohorts fall below expected retention thresholds.
-- 
+
 ## LIMIATATIONS
 While this analysis provides useful insights, there are several limitations to consider:
 1. **Data is Limited to a Single Geography**: The dataset only includes customers from the United Kingdom. Retention behavior may differ significantly in other markets due to cultural, economic, or seasonal factors.
