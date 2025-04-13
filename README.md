@@ -4,7 +4,8 @@
 ## INTRODUCTION.
 In the competitive landscape of online retail, understanding customer behavior is crucial for driving growth, increasing retention, and improving marketing strategies. Cohort analysis offers a powerful lens through which businesses can track and compare groups of customers (cohorts) based on shared characteristics—most commonly the time of their first purchase.
 
-This project focuses on performing a cohort analysis of online retail customers, grouped by the month of their first transaction. The objective is to evaluate customer retention trends, repeat purchase behavior, and lifetime value over time. By analyzing how different cohorts behave after their initial interaction with the platform, we can uncover insights that inform customer engagement strategies, promotional timing, and product recommendations.
+## OBJECTIVE
+This project focuses on analyzing customer purchasing behavior over time by performing a cohort analysis using transactional data from an online retail store. The goal is to understand customer retention trends, identify churn patterns, and derive actionable insights to improve customer engagement and loyalty.
 
 ## DATA SOURCE
 UCI Machine Learning Repository. View data [here](https://archive.ics.uci.edu/dataset/352/online+retail)
@@ -13,7 +14,6 @@ UCI Machine Learning Repository. View data [here](https://archive.ics.uci.edu/da
 1. Pandas - Data Wrangling
 2. Matplotlib - Data Visualization
 3. Seaborn- Data Visualization
-
 
 ## METHODOLOGY
 1. Data Loading & Cleaning
