@@ -1,4 +1,4 @@
-# COHORT ANALYSIS USING PYTHON
+## COHORT ANALYSIS USING PYTHON
 ![Intro_image](https://github.com/Temperance-Godwin/COHORT-ANALYSIS/blob/main/Intro.png)
 
 ## INTRODUCTION.
