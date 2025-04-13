@@ -43,7 +43,6 @@ View my code [here](https://github.com/Temperance-Godwin/COHORT-ANALYSIS/blob/ma
 
 6. There is no visible indication of delayed spikes or growth in user counts in later months, which could indicate word-of-mouth or referral-based return traffic. This implies that customers are not actively referring others, and there's minimal network-driven growth.
 
-
 ## RECOMMENDATIONS
 1. **Launch cohort-based retention campaigns based on a customer’s stage in their lifecycle (e.g., month 1, month 2, month 3).**
    
