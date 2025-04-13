@@ -55,70 +55,40 @@ View my code [here](https://github.com/Temperance-Godwin/COHORT-ANALYSIS/blob/ma
 
 4. **Identify and Prioritize High-Retention Cohorts**: Analyze which customer acquisition periods or segments result in the highest retention and replicate those conditions.
 *How to Do It:*
--Use the cohort heatmap to find months with above-average second or third-month retention.
+- Use the cohort heatmap to find months with above-average second or third-month retention.
+- Look into external factors during those periods (promotions, holidays, campaigns).
+- Replicate effective tactics from high-performing months (e.g., offer bundles, timing of promotions).
 
--Look into external factors during those periods (promotions, holidays, campaigns).
+5. **Segment Customers by Value for Personalized Treatment**: Personalize retention strategies for high-value versus low-value customers.
+*How to Do It*
+- Use RFM (Recency, Frequency, Monetary) segmentation to classify customers.
+- Send premium offers, early access, or VIP experiences to top-tier users.
+- Send reactivation emails with low-cost offers or surveys to lower-tier or inactive users.
 
--Replicate effective tactics from high-performing months (e.g., offer bundles, timing of promotions).
+6. **Add Product-Based Retention Analysis**: Understand which products or categories lead to higher customer retention.
+*How to Do It*:
+- Segment your cohort analysis by top-selling product categories.
+- Compare retention heatmaps across these categories to identify retention-driving products.
+- Promote products that tend to generate returning customers more prominently on your homepage and ads.
 
-6. Segment Customers by Value for Personalized Treatment
-What to Do: Personalize retention strategies for high-value versus low-value customers.
-How to Do It:
+7. **Monitor Revenue Retention, Not Just User Count**: Go beyond user retention to focus on how much value is retained.
+*How to Do It*:
+- Modify the cohort analysis to track revenue (TotalSum) per cohort across months.
+- Normalize revenue by cohort size to calculate average revenue retained per user over time.
+- Use this to focus resources on cohorts that are both large and high-value.
 
-Use RFM (Recency, Frequency, Monetary) segmentation to classify customers.
-
-Send premium offers, early access, or VIP experiences to top-tier users.
-
-Send reactivation emails with low-cost offers or surveys to lower-tier or inactive users.
-
-6. Add Product-Based Retention Analysis
-What to Do: Understand which products or categories lead to higher customer retention.
-How to Do It:
-
-Segment your cohort analysis by top-selling product categories.
-
-Compare retention heatmaps across these categories to identify retention-driving products.
-
-Promote products that tend to generate returning customers more prominently on your homepage and ads.
-
-7. Monitor Revenue Retention, Not Just User Count
-What to Do: Go beyond user retention to focus on how much value is retained.
-How to Do It:
-
-Modify the cohort analysis to track revenue (TotalSum) per cohort across months.
-
-Normalize revenue by cohort size to calculate average revenue retained per user over time.
-
-Use this to focus resources on cohorts that are both large and high-value.
-
-8. Automate Retention Tracking With Dashboards
-What to Do: Monitor cohort performance regularly to evaluate improvements and trends.
-How to Do It:
-
-Use tools like Power BI, Tableau, or Python Dash to build real-time retention dashboards.
-
-Schedule weekly or monthly data pulls and refreshes.
-
-Include visual alerts or trend indicators when certain cohorts fall below expected retention thresholds.
-
-
-
-
+8. **Automate Retention Tracking With Dashboards**: Monitor cohort performance regularly to evaluate improvements and trends.
+*How to Do It*:
+- Use tools like Power BI, Tableau, or Python Dash to build real-time retention dashboards.
+- Schedule weekly or monthly data pulls and refreshes.
+- Include visual alerts or trend indicators when certain cohorts fall below expected retention thresholds.
+- 
 ## LIMIATATIONS
 While this analysis provides useful insights, there are several limitations to consider:
-1. **Data is Limited to a Single Geography**
-The dataset only includes customers from the United Kingdom. Retention behavior may differ significantly in other markets due to cultural, economic, or seasonal factors.
-2. **Temporal Range is Not Fully Defined**
-The dataset likely covers a single year. A longer time horizon would provide a more complete view of long-term retention and customer lifetime value.
-3. **Lack of Channel Attribution**
-The dataset does not include information about how customers were acquired (e.g., paid ads, organic search, referrals). Without this, we cannot determine which marketing channels produce higher-retaining customers.
-4. **Revenue Retention is Not Analyzed**
-The focus was on user retention. Revenue retention would provide a more nuanced understanding of customer value and help distinguish between low- and high-spending retained users.
-5.**No Behavioral or Demographic Segmentation**
-All users are treated equally in the analysis. Further segmentation by age, gender, product type, or user behavior could uncover more granular insights.
-
-6. **Returns and Cancellations Excluded but Not Analyzed**
-While returns were excluded for data quality, analyzing their frequency and causes could reveal issues affecting customer satisfaction and long-term retention.
-
-7. **No Real-Time or Automated Monitoring**
-This is a static analysis. For production use, this should be built into a real-time dashboard or periodic reporting system to monitor cohort performance continuously.
+1. **Data is Limited to a Single Geography**: The dataset only includes customers from the United Kingdom. Retention behavior may differ significantly in other markets due to cultural, economic, or seasonal factors.
+2. **Temporal Range is Not Fully Defined**: The dataset likely covers a single year. A longer time horizon would provide a more complete view of long-term retention and customer lifetime value.
+3. **Lack of Channel Attribution**: The dataset does not include information about how customers were acquired (e.g., paid ads, organic search, referrals). Without this, we cannot determine which marketing channels produce higher-retaining customers.
+4. **Revenue Retention is Not Analyzed**: The focus was on user retention. Revenue retention would provide a more nuanced understanding of customer value and help distinguish between low- and high-spending retained users.
+5.**No Behavioral or Demographic Segmentation**: All users are treated equally in the analysis. Further segmentation by age, gender, product type, or user behavior could uncover more granular insights.
+6. **Returns and Cancellations Excluded but Not Analyzed**: While returns were excluded for data quality, analyzing their frequency and causes could reveal issues affecting customer satisfaction and long-term retention.
+7. **No Real-Time or Automated Monitoring**: This is a static analysis. For production use, this should be built into a real-time dashboard or periodic reporting system to monitor cohort performance continuously.
