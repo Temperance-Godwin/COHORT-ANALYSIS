@@ -32,7 +32,7 @@ View my code [here](https://github.com/Temperance-Godwin/COHORT-ANALYSIS/blob/ma
 ## INSIGHTS
 ![Cohort Analysis](https://github.com/Temperance-Godwin/COHORT-ANALYSIS/blob/main/Cohort%20Analysis.png)
 
-1. There is a significant drop in retention after first purchase. Across nearly all cohorts, Month 0 (first purchase month) shows strong participation. However, in Month 1, there is a sharp drop—often greater than 50%, indicating that a large percentage of customers do not return after their initial transaction. This suggests that the business currently lacks a strong post-purchase engagement strategy or incentives to drive repeat purchases.
+1. There is a significant drop in retention after first purchase. Across nearly all cohorts, Month 0 (first purchase month) shows strong participation. However, in Month 1, there is a sharp drop often greater than 50%, indicating that a large percentage of customers do not return after their initial transaction. This suggests that the business currently lacks a strong post-purchase engagement strategy or incentives to drive repeat purchases.
 
 2. Most cohorts show a steep retention curve, where users quickly disengage after their first or second month. This implies a transactional business model with low customer loyalty, and highlights a missed opportunity in cultivating long-term relationships.
 
@@ -52,7 +52,7 @@ View my code [here](https://github.com/Temperance-Godwin/COHORT-ANALYSIS/blob/ma
 
 2. **Introduce a loyalty program to reward returning cutomers by:**
 
-- Implementing a points-based system where customers earn rewards for each purchase, using custom-built solutions to integrate loyalty tracking and tracking performance by comparing retention rates pre- and post-loyalty program.
+- Implementing a points-based system where customers earn rewards for each purchase, using custom-built solutions to integrate loyalty tracking and tracking performance by comparing retention rates pre-loyalty and post-loyalty program.
 
 3. **Encourage the second purchase with first-time buyer offers by** including an offer inside the package delivery (e.g., a coupon code or QR to redeem bonus on next order).
 
