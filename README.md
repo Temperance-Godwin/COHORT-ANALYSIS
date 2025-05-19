@@ -2,7 +2,7 @@
 ![Intro_image](https://github.com/Temperance-Godwin/COHORT-ANALYSIS/blob/main/Intro.png)
 
 ## INTRODUCTION.
-In the competitive landscape of online retail, understanding customer behavior is crucial for driving growth, increasing retention, and improving marketing strategies. Cohort analysis offers a powerful lens through which businesses can track and compare groups of customers (cohorts) based on shared characteristics—most commonly the time of their first purchase.
+In the competitive landscape of online retail, understanding customer behavior is crucial for driving growth, increasing retention, and improving marketing strategies. Cohort analysis offers a powerful lens through which businesses can track and compare groups of customers (cohorts) based on shared characteristics, most commonly the time of their first purchase.
 
 ## OBJECTIVE
 This project focuses on analyzing customer purchasing behavior over time by performing a cohort analysis using transactional data from an online retail store. The goal is to understand customer retention trends, identify churn patterns, and derive actionable insights to improve customer engagement and loyalty.
@@ -30,6 +30,7 @@ UCI Machine Learning Repository. View data [here](https://archive.ics.uci.edu/da
 View my code [here](https://github.com/Temperance-Godwin/COHORT-ANALYSIS/blob/main/Cohort%20Analysis.ipynb)
 
 ## INSIGHTS
+![Cohort Analysis](https://github.com/Temperance-Godwin/COHORT-ANALYSIS/blob/main/Cohort%20Analysis.png)
 
 1. There is a significant drop in retention after first purchase. Across nearly all cohorts, Month 0 (first purchase month) shows strong participation. However, in Month 1, there is a sharp drop—often greater than 50%, indicating that a large percentage of customers do not return after their initial transaction. This suggests that the business currently lacks a strong post-purchase engagement strategy or incentives to drive repeat purchases.
 
@@ -37,9 +38,9 @@ View my code [here](https://github.com/Temperance-Godwin/COHORT-ANALYSIS/blob/ma
 
 3. Certain monthly cohorts (e.g., those starting in November or December) demonstrate slightly higher Month 1 and Month 2 retention. This may correlate with holiday promotions, gift shopping behavior, or seasonal campaigns that resonate more strongly with customers.
 
-4. Although few customers remain after Month 1, those who do return in Month 2 or 3 tend to remain active longer. This indicates a retention threshold — once customers pass through the early drop-off window, their likelihood of becoming loyal increases.
+4. Although few customers remain after Month 1, those who do return in Month 2 or 3 tend to remain active longer. This indicates a retention threshold once customers pass through the early drop-off window, their likelihood of becoming loyal increases.
 
-5. The heatmap visualization confirms that most cohorts have low retention rates across all months. This suggests the issue is systemic, not isolated to a single campaign, product, or season — and will require strategic, cross-functional intervention.
+5. The heatmap visualization confirms that most cohorts have low retention rates across all months. This suggests the issue is systemic, not isolated to a single campaign, product, or season and will require strategic, cross-functional intervention.
 
 6. There is no visible indication of delayed spikes or growth in user counts in later months, which could indicate word-of-mouth or referral-based return traffic. This implies that customers are not actively referring others, and there's minimal network-driven growth.
 
